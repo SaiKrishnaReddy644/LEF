@@ -19,6 +19,7 @@
   "dependencies": {
     "@microsoft/recognizers-text-suite": "^1.1.4",
     "body-parser": "^1.19.0",
+    "ejs": "^2.6.2",
     "express": "^4.17.1",
     "node-nlp": "^3.5.1"
   }
